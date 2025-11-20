@@ -11,6 +11,7 @@ export default function HomePage() {
     <Box sx={{ 
       width: '100vw',
       height: '100vh',
+      maxHeight: '100vh',
       margin: 0,
       padding: 0,
       overflow: 'hidden', // This prevents scrolling on the container
