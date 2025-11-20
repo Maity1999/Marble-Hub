@@ -60,7 +60,7 @@ export const marbles = [
     name: "Arabescato",
     category: "White Marble",
     description: "Elegant white marble with intricate grey veining patterns. Offers a perfect balance of sophistication and versatility for various design applications.",
-    image: "/images/marbles/arabescato.jpg",
+    image: "/images/marbles/arabes.jpg",
     priceRange: "$$",
     features: ["Elegant Veining", "Easy to Polish", "Wide Applications"],
     applications: ["Countertops", "Staircases", "Wall Panels"],
