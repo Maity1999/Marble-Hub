@@ -23,11 +23,16 @@ export default function HeroSection() {
 
   return (
     <Box sx={{ 
-      width: '100vw',
-      height: '100vh',
-      margin: 0,
-      padding: 0,
-      overflow: 'hidden'
+      height: '100vh', // Use full viewport height
+      width: '100%',
+      maxHeight: '100vh', // Prevent exceeding viewport
+      overflow: 'hidden', // Hide any overflow
+      display: 'flex',
+      flexDirection: 'column',
+      // Add these to handle mobile browser UI
+      position: 'fixed',
+      top: 0,
+      left: 0,
     }}>
       <Grid container sx={{ 
         height: '100vh',
