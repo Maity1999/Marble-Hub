@@ -5,7 +5,7 @@ export const marbles = [
     name: "Carrara White",
     category: "Italian Marble",
     description: "Classic white marble with subtle grey veining, perfect for elegant countertops and flooring. Known for its timeless beauty and versatility in both modern and traditional designs.",
-    image: "/images/marbles/carrara white.jpg",
+    image: "/images/marbles/carrara-white.jpg",
     priceRange: "$$",
     features: ["Water Resistant", "Heat Resistant", "Easy Maintenance"],
     applications: ["Countertops", "Flooring", "Wall Cladding"],
